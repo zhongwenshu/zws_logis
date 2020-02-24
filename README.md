@@ -39,3 +39,6 @@
 
 可广泛用于物流行业各种场景，如转运包裹单清点，包裹跟踪，计算包裹重量，分析包裹内容，物流信息的交互和传递等等。
 
+
+---- Licensing ----
+The source code is licensed under GPL v3.

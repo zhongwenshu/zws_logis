@@ -5,12 +5,12 @@
 ---- 是什么 what is that ----
 
 顾名思义，物流表达式就是用表达式的方式描述物流的运转情况。比如这个表达式：
-%铁路(中通6666 + 圆通YT(8888 + 5641)) + %空运(JD0001)
+%铁路(中通6666 + 圆通YT(8888 + 5641)) + %空运(JD0001)， 
 就是中通一单6666和圆通两单8888和5641走铁路，京东一单JD0001走空运，基本上能够一眼就看出表达式的意思。
 
 With a form of expression to describe logistics status, e.g.:
-%railway(ems6666 + dhl(8888 + 5641)) + %airline(ups0001)
-that is one order of ems with number 6666 and two orders of dhl with numbers 8888 and 5641, they transport using railway,
+%railway(ems6666 + dhl(8888 + 5641)) + %airline(ups0001), 
+that is one order of ems with number 6666 and two orders of dhl with numbers 8888 and 5641, they transport using railway, 
 and order of ups with number 0001 transport using airline
 
 

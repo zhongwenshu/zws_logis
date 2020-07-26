@@ -2,6 +2,8 @@
 物流表达式 logistics expression 
 
 
+
+
 ---- 是什么 what is that ----
 
 顾名思义，物流表达式就是用表达式的方式描述物流的运转情况。比如这个表达式：
@@ -15,11 +17,13 @@ and order of ups with number 0001 transport using airline
 
 
 
+
 ---- 为什么 why ----
 
 为了用简约而有规律的方式概括物流状态，并为进一步实现物流的数字化和自动化打基础。
 
 Summary logistics status in a simple and regular form, in order to make a solid foundation for furthermore atuomatization and digitization in logstics industry
+
 
 
 
